@@ -1,1 +1,3 @@
-
+target:
+  - filepath: "docs/tools/bravesearchtool.mdx"
+    description: "This is a README documentation"
